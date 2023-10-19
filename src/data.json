@@ -1,0 +1,60 @@
+{
+    "navbarOptions": [
+        {
+            "label": "Home",
+            "link": "#"
+        },
+        {
+            "label": "About",
+            "link": "#"
+        },
+        {
+            "label": "Contact",
+            "link": "#"
+        },
+        {
+            "label": "Blog",
+            "link": "#"
+        }
+    ],
+    "headingStats": [
+        {
+            "label": "John Doe",
+            "number": "$10.45",
+            "helpText": "Feb 12 - Feb 29"
+        },
+        {
+            "label": "James Colin",
+            "number": "$22.21",
+            "helpText": "Jan 12 - Jan 29"
+        },
+        {
+            "label": "Deanna Smith",
+            "number": "$12.45",
+            "helpText": "Feb 12 - Feb 29"
+        },
+        {
+            "label": "Jane Doe",
+            "number": "$10.45",
+            "helpText": "Feb 12 - Feb 29"
+        }
+    ],
+    "circularStats": [
+        {
+            "value": "45",
+            "label": "New Clients"
+        },
+        {
+            "value": "55",
+            "label": "Returning Clients"
+        },
+        {
+            "value": "65",
+            "label": "Total Clients"
+        },
+        {
+            "value": "75",
+            "label": "Total Sales"
+        }
+    ]
+}
